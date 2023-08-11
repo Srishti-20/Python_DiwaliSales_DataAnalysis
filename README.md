@@ -1,2 +1,2 @@
 # Python_DiwaliSales_DataAnalysis  
-Analyze Diwali sales data to improve customer experience and sales.  
+Examine Diwali sales data to enhance both customer satisfaction and sales performance. 
